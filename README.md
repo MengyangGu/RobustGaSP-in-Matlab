@@ -13,7 +13,7 @@ References:
 
 Installation:
 
-To use this package, first please download RobustGaSP_Matlab.zip. The examples.m contains some examples. You need to compile the C++ files by compile_cpp() in MATLAB and you only need to do it once. To do so, set the directory the folder "RobustGaSP_Matlab' and run the following lines: 
+To use this package, first please download RobustGaSP_Matlab.zip. The examples.m contains some examples. You need to compile the C++ files by compile_cpp() in MATLAB and you only need to do it once. To do so, change the directory to the folder of "RobustGaSP_Matlab' and run the following lines: 
 
 addpath('functions');                             
 compile_cpp();
