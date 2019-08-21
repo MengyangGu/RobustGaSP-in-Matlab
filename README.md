@@ -7,9 +7,9 @@ Description:
 This package is mainly for emulating computationally expensive computer model/simulators with scalar or vector output in MATLAB. It implements the robust Gaussian stochastic process and parallel partial Gaussian stochastic process. It allows for robust parameter estimation and prediction using Gaussian stochastic process emulator. It also implements the parallel partial Gaussian stochastic process emulator for computer model with massive outputs See the reference: Mengyang Gu and Jim Berger, 2016, Annals of Applied Statistics; Mengyang Gu, Xiaojing Wang and Jim Berger, 2018, Annals of Statistics; Mengyang Gu, 2019, Bayesian Analysis.
 
 References:
-    1. M. Gu. and J.O. Berger (2016). Parallel partial Gaussian process emulation for computer models with massive output. Annals of Applied Statistics, 10(3), 1317-1347.
-    2. M. Gu, X. Wang and J.O. Berger (2018), Robust Gaussian stochastic process emulation, Annals of Statistics, 46(6A), 3038-3066.
-    3. M. Gu (2019), Jointly robust prior for Gaussian stochastic process in emulation, calibration and variable selection, 14(3), Bayesian Analysis. 
+    1. M. Gu. and J.O. Berger (2016). Parallel partial Gaussian process emulation for computer models with massive output. Annals of Applied Statistics, 10(3), 1317-1347.                             
+    2. M. Gu, X. Wang and J.O. Berger (2018), Robust Gaussian stochastic process emulation, Annals of Statistics, 46(6A), 3038-3066.                                              
+    3. M. Gu (2019), Jointly robust prior for Gaussian stochastic process in emulation, calibration and variable selection, 14(3), Bayesian Analysis.                                        
 
 Installation:
 
