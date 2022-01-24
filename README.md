@@ -25,6 +25,6 @@ You also need the optimization toolbox in MATLAB to use this package.
 
 Updates:
 
-v0.5.0 (current version)
+v0.5.2 (current version)
 
 Two main functions are ppgasp() and prediction_predict_ppgasp(). Use help ppgasp() and help prediction_predict_ppgasp() to see how to use these functions. 
