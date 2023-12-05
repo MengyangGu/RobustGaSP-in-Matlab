@@ -1,4 +1,5 @@
 ##change / RobustGaSP-in-MATLAB 0.5.2
+ *enable compiled files so users from mac and windows do not need to compile
  *update .cpp functions to avoid the error when input dimension is 1.
 
 ##change / RobustGaSP-in-MATLAB 0.5.1
